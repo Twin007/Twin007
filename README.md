@@ -1,4 +1,4 @@
-## Hello, I'm Gunanithi 👋
+## Hello, I'm Kumaran 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtheguna&label=Views&color=blue&style=plastic" alt="imguna" /> </p>
 
